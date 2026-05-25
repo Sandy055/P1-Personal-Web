@@ -4,21 +4,27 @@
 
 body {
   margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
-  background-color: #f7f7f7;
-  color: #222;
-  line-height: 1.6;
+  font-family:sans-serif,Arial;
+  background-color: #7fabb8;
+  color: #000000;
+  line-height: 1;
+
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
 }
 
 .site-header {
-  background-color: #ffffff;
-  border-bottom: 1px solid #ddd;
+  background-color: #7fabb8;
+  border-bottom: 3px solid #000000;
 }
 
 .nav-bar {
-  max-width: 1100px;
-  margin: 0 auto;
-  padding: 1rem;
+  padding: 0.5rem;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -50,26 +56,35 @@ body {
 }
 
 .theme-button {
-  padding: 0.5rem 0.8rem;
-  border: 1px solid #222;
+  padding: 0.5rem 1rem;
+  border: 2px solid #000000;
   border-radius: 8px;
   background-color: white;
   cursor: pointer;
+
+  transition: 0.15s;
+}
+
+.theme-button:hover {
+  background-color: #222;
+  color: white;
 }
 
 .hero-section {
-  padding: 5rem 1rem;
-  background-color: #eaf0ff;
+  padding: 4rem 1rem;
+  background-color: #ffffff;
   text-align: center;
+  border-bottom: 3px solid #000000;
 }
 
 .hero-content {
-  max-width: 800px;
+  max-width: 500px;
   margin: 0 auto;
 }
 
 .hero-content h1 {
   font-size: 2.5rem;
+  font-style: italic;
   margin-bottom: 1rem;
 }
 
@@ -86,11 +101,11 @@ body {
 }
 
 .skill-card {
-  flex: 1 1 250px;
+  flex: 1 1 500px;
   background-color: white;
-  padding: 1.5rem;
-  border-radius: 14px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  padding: 1rem;
+  border-radius: 30px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 1);
 }
 
 .site-footer {
