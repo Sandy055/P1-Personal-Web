@@ -19,7 +19,6 @@ View projects quickly
 Understand technical skills
 Navigate the website easily
 
-
 ## Persona 2 — Fellow Student
 
 A fellow student interested in web development projects wants to explore the homepage and see examples of front-end work.
@@ -28,7 +27,6 @@ Goals:
 Browse projects
 Explore design and layout
 Learn from the structure of the website
-
 
 # User Stories
 

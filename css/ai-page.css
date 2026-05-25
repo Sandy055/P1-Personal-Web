@@ -15,8 +15,7 @@ body {
   padding: 1rem;
   background:
     radial-gradient(circle at top left, #7c3aed, transparent 35%),
-    radial-gradient(circle at bottom right, #06b6d4, transparent 35%),
-    #111827;
+    radial-gradient(circle at bottom right, #06b6d4, transparent 35%), #111827;
 }
 
 .ai-nav {
@@ -114,8 +113,7 @@ body {
 .dark .ai-header {
   background:
     radial-gradient(circle at top left, #c4b5fd, transparent 35%),
-    radial-gradient(circle at bottom right, #a5f3fc, transparent 35%),
-    #f8fafc;
+    radial-gradient(circle at bottom right, #a5f3fc, transparent 35%), #f8fafc;
 }
 
 .dark .back-link,

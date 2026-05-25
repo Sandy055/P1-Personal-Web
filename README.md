@@ -4,7 +4,6 @@
 
 Haotian Qian
 
-
 ## Class Link
 
 Add your class link here.
@@ -14,13 +13,11 @@ Add your class link here.
 The goal of this project was to build a personal homepage using only vanilla HTML, CSS, and JavaScript.
 The website introduces my background, projects, interests, and includes an AI-generated page. The project also uses ES6 modules and a dark mode feature.
 
-
 # Website Pages
 
 Home Page
 Projects Page
 AI Page
-
 
 # Technologies Used
 
@@ -43,7 +40,6 @@ Separate CSS files for different pages
 
 Add your screenshot image here.
 
-
 ![Homepage Screenshot](./images/Screenshot.png)
 
 ---
@@ -55,8 +51,6 @@ Add your screenshot image here.
 2. Open the project folder
 
 3. Open `index.html` in a browser
-
-
 
 # GenAI Usage
 
@@ -74,6 +68,5 @@ The generated content was reviewed and edited before submission.
 # Deployment
 
 https://lucasqian77-bit.github.io/P1-Personal-Web/
-
 
 # Video Demo
