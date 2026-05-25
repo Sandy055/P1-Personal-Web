@@ -43,9 +43,8 @@ Separate CSS files for different pages
 
 Add your screenshot image here.
 
-Example:
 
-![Homepage Screenshot](./images/screenshot.png)
+![Homepage Screenshot](./images/Screenshot.png)
 
 ---
 
@@ -57,7 +56,7 @@ Example:
 
 3. Open `index.html` in a browser
 
----
+
 
 # GenAI Usage
 
