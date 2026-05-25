@@ -70,3 +70,5 @@ The generated content was reviewed and edited before submission.
 https://lucasqian77-bit.github.io/P1-Personal-Web/
 
 # Video Demo
+
+https://youtu.be/DnDLfcvNrkw
