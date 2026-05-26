@@ -6,7 +6,7 @@ Haotian Qian
 
 ## Class Link
 
-Add your class link here.
+[CS 5610 / Web Development — Northeastern University, Boston](https://johnguerra.co/classes/webDevelopment_online_summer_2026/)
 
 # Project Objective
 
@@ -37,8 +37,6 @@ Separate CSS files for different pages
 ---
 
 # Screenshot
-
-Add your screenshot image here.
 
 ![Homepage Screenshot](./images/Screenshot.png)
 
